@@ -1,1 +1,0 @@
-Library{name='Elandalos', libraryCode=1, bookList=[Book{title='Algorithms', author='Robert Sedgewick', id=1, version=4, availability=true}]}
